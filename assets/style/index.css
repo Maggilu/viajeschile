@@ -1,1 +1,21 @@
-
+* {
+    color: white;
+}
+body {
+    background-color: black;
+}
+h2 {
+    text-align: center;
+}
+.card-body {
+    background-color: black;
+}
+i {
+    color: white;
+}
+.card-header {
+    background-color: aqua;
+}
+.card-text {
+    height: 300px;
+}
