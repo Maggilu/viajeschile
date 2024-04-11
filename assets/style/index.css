@@ -7,9 +7,6 @@ body {
 h2 {
     text-align: center;
 }
-.card-body {
-    background-color:black;
-}
 i {
     color: white;
 }
@@ -21,4 +18,13 @@ i {
 }
 .custom-bg-color {
     background-color: #00ffff ;
+}
+.footer {
+    justify-content: space-around;
+}
+.text-white {
+    color: white;
+}
+footer {
+    justify-content: space-around;
 }
