@@ -8,14 +8,17 @@ h2 {
     text-align: center;
 }
 .card-body {
-    background-color: black;
+    background-color:black;
 }
 i {
     color: white;
 }
 .card-header {
-    background-color: aqua;
+    background-color: #00ffff;
 }
 .card-text {
     height: auto;
+}
+.custom-bg-color {
+    background-color: #00ffff ;
 }
