@@ -17,5 +17,5 @@ i {
     background-color: aqua;
 }
 .card-text {
-    height: 300px;
+    height: auto;
 }
