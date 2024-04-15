@@ -32,7 +32,7 @@ i {
 }
 .quienes {
     background: #000;
-    width: 90%;
+    max-width: 800px;
     align-items: center;
     padding: 30px;
 }
