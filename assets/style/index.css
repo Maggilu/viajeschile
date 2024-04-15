@@ -39,3 +39,6 @@ i {
 .footer {
     justify-content: space-around;
 }
+html{
+    scroll-behavior: smooth;
+}
